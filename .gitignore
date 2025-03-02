@@ -1,0 +1,14 @@
+# Ignore all files other than .pdf and .tex in Report
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*.run.xml
+
+# Ignore __pycache__ directory
+__pycache__/
+
+# Ignore details.pdf
+details.pdf
