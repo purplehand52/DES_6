@@ -4,6 +4,8 @@
 ### CS21BTECH11053
 
 #### Code Structure Overview
+Refer to the following URL for the GitHub repository: [https://github.com/purplehand52/DES_6/tree/master](DES_6)
+
 This repository contains the following files:
 1. `custom_des.py` - Contains the implementation of the DES algorithm.
 2. `s_box_diff.py` - Contains the code to analyze differentials.
